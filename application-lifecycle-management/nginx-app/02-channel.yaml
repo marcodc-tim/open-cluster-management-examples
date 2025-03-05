@@ -5,4 +5,4 @@ metadata:
   namespace: nginx-app
 spec:
     type: Git
-    pathname: https://github.com/giannisalinetti/open-cluster-management-examples.git
+    pathname: https://github.com/marcodc-tim/open-cluster-management-examples.git
